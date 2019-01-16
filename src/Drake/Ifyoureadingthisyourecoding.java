@@ -28,9 +28,13 @@ public class Ifyoureadingthisyourecoding {
 		weak = sc.nextLine();
 		//Either continue or break
 		  
-		
 		if(choice.equalsIgnoreCase("Yes"));
-			System.out.println("How Fast?");{			
+		System.out.println("How Fast?");{	
+		
+		//else(weak.equalsIgnoreCase("No"));
+		System.out.println("Meek got to you huh? Ok Goodbye");
+		
+				
 		
 				int userSpeed; {
 					userSpeed = scna.nextInt();{}
@@ -70,15 +74,10 @@ public class Ifyoureadingthisyourecoding {
 			}
 
 			}
-		//Else(weak.equalsIgnoreCase("No"));
-			//System.out.println("Meek got to you huh? Ok Goodbye");
-			
+	
 			
        }		
-			
-  //Input UserSpeed			
-			
-		
+					
 		
 		private static void Else(boolean equalsIgnoreCase) {
 			// TODO Auto-generated method stub
